@@ -1,0 +1,48 @@
+.product-container {
+	padding: 5px;
+	border: 1px solid #ccc;
+	margin-top: 10px;
+	height: 110px;
+}
+
+.img-container {
+	float: left;
+	margin-right: 5px;
+}
+
+.test {
+	font-family:cursive;
+}
+
+.test1 {
+	letter-spacing: 5px;
+	font-size: 20px;
+	font-family: 'Beau Rivage', cursive;
+}
+
+.center {
+	margin-top: 15%;
+}
+
+h1 {
+	text-align: center;
+	color: aliceblue;
+	font-size: 100px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.corner {
+	margin: 50px 0 25px 0;
+}
+
+.form_add {
+	width: 35%;
+}
+
+.form_update {
+	width: 70%;
+}
+
+.margin20px {
+	margin-left: 20px;
+}
